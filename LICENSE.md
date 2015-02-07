@@ -4,16 +4,16 @@
 
 # Licencia Absurda Anacronía copy-far-right
 
-Esta licencia se aplica a todo el código fuente, archivo de configuración, multimedia y cualquier otro tipo en esta carpeta y sus subcarpetas, incluida la propia licencia.
+Esta licencia se aplica a todo el código fuente, archivo de configuración, multimedia y de cualquier otro tipo en esta carpeta y sus subcarpetas, incluida la propia licencia.
 
-Está prohibido leer, ejecutar, recordar, analizar sintácticamente, subrayar, copiar, modificar, pensar, mencionar y en general usar el objeto de esta licencia para realizar cualquier actividad que no haya sido explícitamente permitida por una autorización expresa en vigor, personal e intransferible, que podrá ser revocada unilateralmente de forma arbitraria en cualquier momento y sin previo aviso por el propietario de esta obra.
+Está prohibido leer, ejecutar, recordar, analizar sintácticamente, subrayar, copiar, modificar, pensar, mencionar y en general usar en modo alguno cualquier objeto protegido por esta licencia para realizar cualquier actividad que no haya sido explícitamente permitida por una autorización escrita, expresa, en vigor, personal e intransferible, que podrá ser revocada unilateralmente de forma arbitraria en cualquier momento y sin previo aviso por el propietario de esta obra.
 
-Cualquier vulneración de esta licencia será castigada con todo el peso de la ley, entre otras medidas coercitivas y punitivas de las que, a modo de ejemplo, se facilita una lista extensiva no exhaustiva.
+Cualquier vulneración de esta licencia será castigada con todo el peso de la ley, y con cualquier otra medida coercitiva, punitiva o reeducativa que el derechohabiente considere oportuno, como por ejemplo:
 
-+ ciberacoso
-+ vandalismo de baja intensidad
-+ matones profesionales
-+ ataque nuclear preventivo
++ ciberacoso.
++ vandalismo de baja intensidad.
++ matones profesionales.
++ ataque nuclear preventivo.
 
 ## protección adicional
 
@@ -29,3 +29,6 @@ Cualquier parecido con símbolos o sintaxis reales del idioma castellano, de jav
 
 Cualquier otro parecido con obras anteriores, aunque sean del conocimiento del autor, es una coincidencia que no implica ni legalmente, ni éticamente, ni moralmente ni en modo alguno que esta obra deba ser igualmente compartida para ser igualmente reutilizada, 
 
+## Vigencia
+
+Esta licencia sera de aplicación hasta `fecha`, momento en el cual la licencia aplicable será `licencia`
