@@ -3,7 +3,7 @@ SuperPrivative Absurd Anachronistic License
  
 La **licencia de extremo-derecho de copia** es una parodia del copyright.
  
-La idea es utilizarla temporalmente en proyectos de software libre, de modo temporal mientras su código no reúne las condiciones necesarias como para que las cuatro libertades sean efectivas.
+La idea es utilizarla temporalmente en proyectos de software libre, mientras su código no reúne las condiciones necesarias como para que las cuatro libertades sean efectivas.
  
 Así, cuando sea realmente: **utilizable, legible, modificable, y redistribuible** por cualquiera (*sin necesidad de ser experto en cohetes*), podrá festejarse su liberación cambiando su licencia por una licencia seria, como la gpl, apache, mit, o la que sea.
  
